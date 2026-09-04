@@ -7,7 +7,7 @@ about:
   head: b1ef5ca
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:34:37Z
+  collectedAt: 2026-09-04T20:56:34Z
 timeline:
   created: 2018-07-20
   lastCommit: 2018-07-27
@@ -80,6 +80,29 @@ total:
   openIssue: 3
   commit: 10
 ---
+path: /home/runner/.x-repo/github.com/withoutboats/bpb
+collectedAt: 2026-09-04T20:56:35Z
+loc:
+  Rust:
+    code: 226
+    comments: 0
+    blanks: 45
+    files: 4
+  Toml:
+    code: 22
+    comments: 2
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 45
+    blanks: 18
+    files: 1
+total:
+  code: 248
+  comments: 47
+  blanks: 67
+  files: 6
 ---
 date: "2026-08-24"
 repo:
