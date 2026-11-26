@@ -22,16 +22,6 @@ Total: **248** lines of code across **6** files in the top 5 languages.
 | Toml | 22 | 2 | 4 | 1 |
 | Markdown | 0 | 45 | 18 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **1.8 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
-- **Pinned-Dependencies** (-1/10) — no dependencies found
-- **Token-Permissions** (-1/10) — No tokens found
-
 ## Source
 
 - **Upstream**: <https://github.com/withoutboats/bpb>
@@ -49,12 +39,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -65,4 +55,4 @@ Install metadata for bpb lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:46:24Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:05:15Z._
